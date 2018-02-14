@@ -1,7 +1,7 @@
 jCloudBpmn
 
 
-- a complete development and deployment environment. All dependencies and configuration that is required to the run JcloudBPMN applications in a web server are provided by Grails. The only thing you have to worry about is your application code.
+- a complete development and deployment environment. All dependencies and configuration that is required to the run JcloudBPMN applications in a web server are provided by JcloudBPMN. The only thing you have to worry about is your application code.
 
 - inclusion of an embedded Jetty web server
 
